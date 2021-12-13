@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">sempro-uas</string>
+    <string name="login_desc">Harap login menggunakan akun yang sudah terdaftar.</string>
 </resources>
